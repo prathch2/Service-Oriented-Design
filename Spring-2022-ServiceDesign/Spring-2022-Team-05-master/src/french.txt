@@ -1,0 +1,6 @@
+dog,chien
+cat,chat
+brother,frere
+sister,soeur
+friend,ami
+teacher,enseignant

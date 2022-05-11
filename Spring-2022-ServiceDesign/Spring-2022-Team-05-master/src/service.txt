@@ -1,0 +1,5 @@
+trans,java -jar trans.jar
+tax,java -jar tax.jar
+msg,java -jar msg.jar
+tb,java -jar tb.jar
+test,echo
